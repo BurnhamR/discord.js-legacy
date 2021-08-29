@@ -105,3 +105,7 @@ If you don't understand something in the documentation, you are experiencing pro
 nudge in the right direction, please don't hesitate to join Discord.js's official [Discord.js Server](https://discord.gg/bRCvFy9).
 They currently have a djs-v12-deprecated channel to gains support in.
 We are currently in the process of making a full wiki for Discord.js-legacy here: [Github Wiki](https://github.com/BurnhamR/discord.js-legacy-guide) & [Official discord.js-legacy documentation](https://skyy.cc/discord.js-legacy.html) & [Official discord.js documentation for v12.5.3](https://discord.js.org/#/docs/main/12.5.3/general/welcome).
+
+## This Fork
+
+This is NOT an official discord.js project and is not marketed as one, this is an updated legacy version of discord.js(pre-discord.js v13) for developers who are not wanting to recode or update there bot just for an update. As well discord.js v13.0.0+ is much more intensive and can be confusing for a beginner developer, so we are creating and updating this project. 
