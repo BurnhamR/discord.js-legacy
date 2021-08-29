@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://github.com/BurnhamR/discord.js-legacy"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
+    <a href="https://github.com/BurnhamR/discord.js-legacy"><img src="https://cdn.gamercraftstudios.net/uploads/24125/262265/discord.js-legacy-logo.svg" width="546" alt="discord.js-legacy" /></a>
   </p>
   <br />
   <!--<p>
