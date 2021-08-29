@@ -9,7 +9,7 @@
     <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
   </p>-->
   <p>
-    <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+    <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://cdn.gamercraftstudios.net/uploads/24125/262265/status.svg" alt="npm install" /></a>
   </p>
 </div>
 
@@ -27,7 +27,7 @@
 
 ## About
 
-discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
+discord.js-legacy is an unofficial fork of discord.js and is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the
 [Discord API](https://discord.com/developers/docs/intro).
 
 - Object-oriented
@@ -37,7 +37,7 @@ discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to
 
 ## Installation
 
-**Node.js 12.0.0 or newer is required.**  
+**Node.js 12.5.3 or newer is required.**  
 Ignore any warnings about unmet peer dependencies, as they're all optional.
 
 Without voice support: `npm install discord.js`  
