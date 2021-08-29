@@ -4,10 +4,10 @@
     <a href="https://discord.js.org"><img src="https://discord.js.org/static/logo.svg" width="546" alt="discord.js" /></a>
   </p>
   <br />
-  <p>
+  <!--<p>
     <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://cdn.gamercraftstudios.net/uploads/24125/262265/44.svg" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
-  </p>
+  </p>-->
   <p>
     <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://nodei.co/npm/discord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
