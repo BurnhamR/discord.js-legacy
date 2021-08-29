@@ -5,7 +5,7 @@
   </p>
   <br />
   <p>
-    <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://cdn.gamercraftstudios.net/uploads/24125/262265/44" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://cdn.gamercraftstudios.net/uploads/24125/262265/44.svg" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/discord.js/v/12.5.3"><img src="https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
   </p>
   <p>
