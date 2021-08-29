@@ -81,14 +81,13 @@ client.login('token');
 
 ## Links
 
-- [Website](https://discord.js.org/) ([source](https://github.com/discordjs/website))
-- [Documentation](https://discord.js.org/#/docs/main/master/general/welcome)
-- [Guide](https://discordjs.guide/) ([source](https://github.com/discordjs/guide)) - this is still for stable  
+- [Website](https://discord.js.org/) ([source](https://github.com/BurnhamR/discord.js-legacy))
+- [Documentation](https://discord.js.org/#/docs/main/12.5.3/general/welcome)
+- [Guide](https://skyy.cc/discord.js-legacy.html) ([source](https://github.com/BurnhamR/discord.js-legacy-guide)) - WIP
   See also the [Update Guide](https://discordjs.guide/additional-info/changes-in-v12.html), including updated and removed items in the library.
-- [Discord.js Discord server](https://discord.gg/bRCvFy9)
 - [Discord API Discord server](https://discord.gg/discord-api)
-- [GitHub](https://github.com/discordjs/discord.js)
-- [NPM](https://www.npmjs.com/package/discord.js)
+- [GitHub](https://github.com/BurnhamR/discord.js-legacy)
+- [NPM](https://www.npmjs.com/package/discord.js/v/12.5.3)
 - [Related libraries](https://discordapi.com/unofficial/libs.html)
 
 ### Extensions
@@ -97,11 +96,12 @@ client.login('token');
 
 ## Contributing
 
-Before creating an issue, please ensure that it hasn't already been reported/suggested, and double-check the
-[documentation](https://discord.js.org/#/docs).  
-See [the contribution guide](https://github.com/discordjs/discord.js/blob/master/.github/CONTRIBUTING.md) if you'd like to submit a PR.
+Before creating an [issue](https://github.com/BurnhamR/discord.js-legacy/issues), please ensure that it hasn't already been reported/suggested, and double-check the
+[documentation](https://skyy.cc/discord.js-legacy.html).  
 
 ## Help
 
 If you don't understand something in the documentation, you are experiencing problems, or you just need a gentle
-nudge in the right direction, please don't hesitate to join our official [Discord.js Server](https://discord.gg/bRCvFy9).
+nudge in the right direction, please don't hesitate to join Discord.js's official [Discord.js Server](https://discord.gg/bRCvFy9).
+They currently have a djs-v12-deprecated channel to gains support in.
+We are currently in the process of making a full wiki for Discord.js-legacy here: [Github Wiki](https://github.com/BurnhamR/discord.js-legacy-guide) & [Official discord.js-legacy documentation](https://skyy.cc/discord.js-legacy.html) & [Official discord.js documentation for v12.5.3](https://discord.js.org/#/docs/main/12.5.3/general/welcome).
